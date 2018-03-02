@@ -5,7 +5,7 @@
 
 #### Platform
 
-- [ ] Web
+- [ ] Web (working)
 - [ ] Android
 - [ ] IOS
 - [ ] OS X
